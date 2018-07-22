@@ -1,2 +1,2 @@
 # CodeForces
-i will answer some hackerrank.com s problems here
+i will answer some problems of codeforces.com here
